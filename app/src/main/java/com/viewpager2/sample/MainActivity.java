@@ -15,11 +15,9 @@ public class MainActivity extends AppCompatActivity {
     private LinearLayout layoutIndicator;
 
     private String[] images = new String[] {
-            "https://pubsdk-cdn.gamepub.co.kr/200901/202102/P21022414465826218.jpg",
-            "https://cdn.pixabay.com/photo/2020/11/04/15/29/coffee-beans-5712780_1280.jpg",
-            "https://pubsdk-cdn.gamepub.co.kr/200901/202011/P20111219125161982.jpg",
-            "https://cdn.pixabay.com/photo/2020/09/02/18/03/girl-5539094_1280.jpg",
-            "https://cdn.pixabay.com/photo/2014/03/03/16/15/mosque-279015_1280.jpg"
+            "https://user-images.githubusercontent.com/20632507/108068287-3c637d80-70a5-11eb-94f6-4aa605df1f76.jpeg",
+            "https://user-images.githubusercontent.com/20632507/108068287-3c637d80-70a5-11eb-94f6-4aa605df1f76.jpeg",
+            "https://user-images.githubusercontent.com/20632507/108068287-3c637d80-70a5-11eb-94f6-4aa605df1f76.jpeg"
     };
 
     @Override
